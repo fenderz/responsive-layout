@@ -1,0 +1,61 @@
+/* html5 new tags */
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}
+/*// html5 new tags */
+
+/* 12 colums grid IE6-7 FIX */
+.grid-row {
+	*zoom: 1
+	}
+
+.grid-row__item {
+	*margin-left: 2.074468085106383%
+	}
+
+.grid-row__item_12 {
+	*width: 99.94680851063829%
+	}
+
+.grid-row__item_11 {
+	*width: 91.43617021276594%
+	}
+
+.grid-row__item_10 {
+	*width: 82.92553191489361%
+	}
+
+.grid-row__item_9 {
+	*width: 74.41489361702126%
+	}
+
+.grid-row__item_8 {
+	*width: 65.90425531914893%
+	}
+
+.grid-row__item_7 {
+	*width: 57.39361702127659%
+	}
+
+.grid-row__item_6 {
+	*width: 48.88297872340425%
+	}
+
+.grid-row__item_5 {
+	*width: 40.37234042553192%
+	}
+
+.grid-row__item_4 {
+	*width: 31.861702127659576%
+	}
+
+.grid-row__item_3 {
+	*width: 23.351063829787233%
+	}
+
+.grid-row__item_2 {
+	*width: 14.840425531914894%
+	}
+
+.grid-row__item_1 {
+	*width: 6.329787234042553%
+	}
+/*// 12 colums grid IE6-7 FIX */
